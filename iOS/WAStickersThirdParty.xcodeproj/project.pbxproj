@@ -36,34 +36,12 @@
 		8AB5951920C1FC130076625E /* Sticker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951820C1FC130076625E /* Sticker.swift */; };
 		8AB5951B20C1FC440076625E /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5951A20C1FC440076625E /* ImageData.swift */; };
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
-		8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234882146F63D00E3667B /* tray_Cuppy.png */; };
-		8AC234A42146F65500E3667B /* 06_Cuppy_love.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */; };
-		8AC234A52146F65500E3667B /* 09_Cuppy_lovewithcookie.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */; };
-		8AC234A62146F65500E3667B /* 15_Cuppy_bluescreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */; };
-		8AC234A72146F65500E3667B /* 10_Cuppy_hmm.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */; };
-		8AC234A82146F65500E3667B /* 07_Cuppy_hate.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */; };
-		8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234902146F65100E3667B /* 14_Cuppy_weird.png */; };
-		8AC234AA2146F65500E3667B /* 22_Cuppy_bye.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234912146F65100E3667B /* 22_Cuppy_bye.png */; };
-		8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234922146F65100E3667B /* 12_Cuppy_angry.png */; };
-		8AC234AC2146F65500E3667B /* 23_Cuppy_greentea.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */; };
-		8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234942146F65100E3667B /* 01_Cuppy_smile.png */; };
-		8AC234AE2146F65500E3667B /* 21_Cuppy_hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234952146F65200E3667B /* 21_Cuppy_hi.png */; };
-		8AC234AF2146F65500E3667B /* 02_Cuppy_lol.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234962146F65200E3667B /* 02_Cuppy_lol.png */; };
-		8AC234B02146F65500E3667B /* 03_Cuppy_rofl.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */; };
-		8AC234B12146F65500E3667B /* 08_Cuppy_lovewithmug.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */; };
-		8AC234B22146F65500E3667B /* 24_Cuppy_phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234992146F65200E3667B /* 24_Cuppy_phone.png */; };
-		8AC234B32146F65500E3667B /* 13_Cuppy_curious.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */; };
-		8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */; };
-		8AC234B52146F65500E3667B /* 16_Cuppy_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */; };
-		8AC234B62146F65500E3667B /* 25_Cuppy_battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */; };
-		8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */; };
-		8AC234B82146F65500E3667B /* 05_Cuppy_cry.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */; };
-		8AC234B92146F65500E3667B /* 19_Cuppy_shine.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */; };
-		8AC234BA2146F65500E3667B /* 20_Cuppy_disgusting.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */; };
-		8AC234BB2146F65500E3667B /* 17_Cuppy_tired.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */; };
-		8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */ = {isa = PBXBuildFile; fileRef = 8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
+		BEE1714221A019B90077063F /* 01_philippmatthes_thumbsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714121A019B90077063F /* 01_philippmatthes_thumbsup.png */; };
+		BEE1714421A01A930077063F /* tray.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714321A01A930077063F /* tray.png */; };
+		BEE1714721A01BFC0077063F /* 02_philippmatthes_thumbsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714521A01BFC0077063F /* 02_philippmatthes_thumbsup.png */; };
+		BEE1714821A01BFC0077063F /* 03_philippmatthes_thumbsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714621A01BFC0077063F /* 03_philippmatthes_thumbsup.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,34 +103,12 @@
 		8AB5951820C1FC130076625E /* Sticker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sticker.swift; sourceTree = "<group>"; };
 		8AB5951A20C1FC440076625E /* ImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
-		8AC234882146F63D00E3667B /* tray_Cuppy.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = tray_Cuppy.png; sourceTree = "<group>"; };
-		8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 06_Cuppy_love.png; sourceTree = "<group>"; };
-		8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 09_Cuppy_lovewithcookie.png; sourceTree = "<group>"; };
-		8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 15_Cuppy_bluescreen.png; sourceTree = "<group>"; };
-		8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 10_Cuppy_hmm.png; sourceTree = "<group>"; };
-		8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 07_Cuppy_hate.png; sourceTree = "<group>"; };
-		8AC234902146F65100E3667B /* 14_Cuppy_weird.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 14_Cuppy_weird.png; sourceTree = "<group>"; };
-		8AC234912146F65100E3667B /* 22_Cuppy_bye.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 22_Cuppy_bye.png; sourceTree = "<group>"; };
-		8AC234922146F65100E3667B /* 12_Cuppy_angry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 12_Cuppy_angry.png; sourceTree = "<group>"; };
-		8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 23_Cuppy_greentea.png; sourceTree = "<group>"; };
-		8AC234942146F65100E3667B /* 01_Cuppy_smile.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 01_Cuppy_smile.png; sourceTree = "<group>"; };
-		8AC234952146F65200E3667B /* 21_Cuppy_hi.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 21_Cuppy_hi.png; sourceTree = "<group>"; };
-		8AC234962146F65200E3667B /* 02_Cuppy_lol.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 02_Cuppy_lol.png; sourceTree = "<group>"; };
-		8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 03_Cuppy_rofl.png; sourceTree = "<group>"; };
-		8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 08_Cuppy_lovewithmug.png; sourceTree = "<group>"; };
-		8AC234992146F65200E3667B /* 24_Cuppy_phone.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 24_Cuppy_phone.png; sourceTree = "<group>"; };
-		8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 13_Cuppy_curious.png; sourceTree = "<group>"; };
-		8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 04_Cuppy_sad.png; sourceTree = "<group>"; };
-		8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 16_Cuppy_angry.png; sourceTree = "<group>"; };
-		8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 25_Cuppy_battery.png; sourceTree = "<group>"; };
-		8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 18_Cuppy_workhard.png; sourceTree = "<group>"; };
-		8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 05_Cuppy_cry.png; sourceTree = "<group>"; };
-		8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 19_Cuppy_shine.png; sourceTree = "<group>"; };
-		8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 20_Cuppy_disgusting.png; sourceTree = "<group>"; };
-		8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 17_Cuppy_tired.png; sourceTree = "<group>"; };
-		8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */ = {isa = PBXFileReference; explicitFileType = compiled; path = 11_Cuppy_upset.png; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
+		BEE1714121A019B90077063F /* 01_philippmatthes_thumbsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 01_philippmatthes_thumbsup.png; path = ../../Assets/01_philippmatthes_thumbsup.png; sourceTree = "<group>"; };
+		BEE1714321A01A930077063F /* tray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray.png; path = ../../Assets/tray.png; sourceTree = "<group>"; };
+		BEE1714521A01BFC0077063F /* 02_philippmatthes_thumbsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 02_philippmatthes_thumbsup.png; path = ../../Assets/02_philippmatthes_thumbsup.png; sourceTree = "<group>"; };
+		BEE1714621A01BFC0077063F /* 03_philippmatthes_thumbsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 03_philippmatthes_thumbsup.png; path = ../../Assets/03_philippmatthes_thumbsup.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,32 +184,10 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
-				8AC234882146F63D00E3667B /* tray_Cuppy.png */,
-				8AC234942146F65100E3667B /* 01_Cuppy_smile.png */,
-				8AC234962146F65200E3667B /* 02_Cuppy_lol.png */,
-				8AC234972146F65200E3667B /* 03_Cuppy_rofl.png */,
-				8AC2349B2146F65300E3667B /* 04_Cuppy_sad.png */,
-				8AC2349F2146F65400E3667B /* 05_Cuppy_cry.png */,
-				8AC2348B2146F65000E3667B /* 06_Cuppy_love.png */,
-				8AC2348F2146F65100E3667B /* 07_Cuppy_hate.png */,
-				8AC234982146F65200E3667B /* 08_Cuppy_lovewithmug.png */,
-				8AC2348C2146F65000E3667B /* 09_Cuppy_lovewithcookie.png */,
-				8AC2348E2146F65100E3667B /* 10_Cuppy_hmm.png */,
-				8AC235032149FA2F00E3667B /* 11_Cuppy_upset.png */,
-				8AC234922146F65100E3667B /* 12_Cuppy_angry.png */,
-				8AC2349A2146F65200E3667B /* 13_Cuppy_curious.png */,
-				8AC234902146F65100E3667B /* 14_Cuppy_weird.png */,
-				8AC2348D2146F65100E3667B /* 15_Cuppy_bluescreen.png */,
-				8AC2349C2146F65300E3667B /* 16_Cuppy_angry.png */,
-				8AC234A22146F65400E3667B /* 17_Cuppy_tired.png */,
-				8AC2349E2146F65400E3667B /* 18_Cuppy_workhard.png */,
-				8AC234A02146F65400E3667B /* 19_Cuppy_shine.png */,
-				8AC234A12146F65400E3667B /* 20_Cuppy_disgusting.png */,
-				8AC234952146F65200E3667B /* 21_Cuppy_hi.png */,
-				8AC234912146F65100E3667B /* 22_Cuppy_bye.png */,
-				8AC234932146F65100E3667B /* 23_Cuppy_greentea.png */,
-				8AC234992146F65200E3667B /* 24_Cuppy_phone.png */,
-				8AC2349D2146F65300E3667B /* 25_Cuppy_battery.png */,
+				BEE1714521A01BFC0077063F /* 02_philippmatthes_thumbsup.png */,
+				BEE1714621A01BFC0077063F /* 03_philippmatthes_thumbsup.png */,
+				BEE1714321A01A930077063F /* tray.png */,
+				BEE1714121A019B90077063F /* 01_philippmatthes_thumbsup.png */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -360,39 +294,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AC234A72146F65500E3667B /* 10_Cuppy_hmm.png in Resources */,
-				8AC234B92146F65500E3667B /* 19_Cuppy_shine.png in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
-				8AC234B52146F65500E3667B /* 16_Cuppy_angry.png in Resources */,
-				8AC234B12146F65500E3667B /* 08_Cuppy_lovewithmug.png in Resources */,
-				8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */,
-				8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */,
+				BEE1714821A01BFC0077063F /* 03_philippmatthes_thumbsup.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
-				8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */,
-				8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */,
-				8AC234AA2146F65500E3667B /* 22_Cuppy_bye.png in Resources */,
-				8AC234A52146F65500E3667B /* 09_Cuppy_lovewithcookie.png in Resources */,
-				8AC234AE2146F65500E3667B /* 21_Cuppy_hi.png in Resources */,
-				8AC234B82146F65500E3667B /* 05_Cuppy_cry.png in Resources */,
-				8AC234A82146F65500E3667B /* 07_Cuppy_hate.png in Resources */,
-				8AC234B02146F65500E3667B /* 03_Cuppy_rofl.png in Resources */,
+				BEE1714421A01A930077063F /* tray.png in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
-				8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */,
-				8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */,
-				8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */,
+				BEE1714221A019B90077063F /* 01_philippmatthes_thumbsup.png in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
-				8AC234AF2146F65500E3667B /* 02_Cuppy_lol.png in Resources */,
-				8AC234A42146F65500E3667B /* 06_Cuppy_love.png in Resources */,
+				BEE1714721A01BFC0077063F /* 02_philippmatthes_thumbsup.png in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
-				8AC234B32146F65500E3667B /* 13_Cuppy_curious.png in Resources */,
-				8AC234B22146F65500E3667B /* 24_Cuppy_phone.png in Resources */,
-				8AC234B62146F65500E3667B /* 25_Cuppy_battery.png in Resources */,
-				8AC234BB2146F65500E3667B /* 17_Cuppy_tired.png in Resources */,
-				8AC234BA2146F65500E3667B /* 20_Cuppy_disgusting.png in Resources */,
 				8A18E33D1FBA793F0082201D /* sticker_packs.wasticker in Resources */,
-				8AC234A62146F65500E3667B /* 15_Cuppy_bluescreen.png in Resources */,
-				8AC234AC2146F65500E3667B /* 23_Cuppy_greentea.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -568,7 +480,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = S36925NV4E;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -576,7 +488,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
+				PRODUCT_BUNDLE_IDENTIFIER = com.philippmatthes.stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -592,7 +504,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = S36925NV4E;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -600,7 +512,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
+				PRODUCT_BUNDLE_IDENTIFIER = com.philippmatthes.stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
