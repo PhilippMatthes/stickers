@@ -16,12 +16,24 @@
                 "emojis": ["👍","😁"]
             },
             {
-                "image_file": "02_philippmatthes_thumbsup.png",
+                "image_file": "02_philippmatthes_whatsup.png",
+                "emojis": ["😎","😁"]
+            },
+            {
+                "image_file": "03_philippmatthes_thumbsupvicky.png",
                 "emojis": ["👍","😁"]
             },
             {
-                "image_file": "03_philippmatthes_thumbsup.png",
-                "emojis": ["👍","😁"]
+                "image_file": "04_philippmatthes_thumbsupboth.png",
+                "emojis": ["👍","😎"]
+            },
+            {
+                "image_file": "05_philippmatthes_peace.png",
+                "emojis": ["✌️","😁"]
+            },
+            {
+                "image_file": "06_philippmatthes_eating.png",
+                "emojis": ["🍕","🍴"]
             },
         ]
     }]

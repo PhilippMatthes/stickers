@@ -40,8 +40,11 @@
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
 		BEE1714221A019B90077063F /* 01_philippmatthes_thumbsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714121A019B90077063F /* 01_philippmatthes_thumbsup.png */; };
 		BEE1714421A01A930077063F /* tray.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714321A01A930077063F /* tray.png */; };
-		BEE1714721A01BFC0077063F /* 02_philippmatthes_thumbsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714521A01BFC0077063F /* 02_philippmatthes_thumbsup.png */; };
-		BEE1714821A01BFC0077063F /* 03_philippmatthes_thumbsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714621A01BFC0077063F /* 03_philippmatthes_thumbsup.png */; };
+		BEE1714E21A0289F0077063F /* 02_philippmatthes_whatsup.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714921A0289E0077063F /* 02_philippmatthes_whatsup.png */; };
+		BEE1714F21A0289F0077063F /* 03_philippmatthes_thumbsupvicky.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714A21A0289E0077063F /* 03_philippmatthes_thumbsupvicky.png */; };
+		BEE1715021A0289F0077063F /* 05_philippmatthes_peace.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714B21A0289F0077063F /* 05_philippmatthes_peace.png */; };
+		BEE1715121A0289F0077063F /* 04_philippmatthes_thumbsupboth.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714C21A0289F0077063F /* 04_philippmatthes_thumbsupboth.png */; };
+		BEE1715221A0289F0077063F /* 06_philippmatthes_eating.png in Resources */ = {isa = PBXBuildFile; fileRef = BEE1714D21A0289F0077063F /* 06_philippmatthes_eating.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -107,8 +110,11 @@
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
 		BEE1714121A019B90077063F /* 01_philippmatthes_thumbsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 01_philippmatthes_thumbsup.png; path = ../../Assets/01_philippmatthes_thumbsup.png; sourceTree = "<group>"; };
 		BEE1714321A01A930077063F /* tray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tray.png; path = ../../Assets/tray.png; sourceTree = "<group>"; };
-		BEE1714521A01BFC0077063F /* 02_philippmatthes_thumbsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 02_philippmatthes_thumbsup.png; path = ../../Assets/02_philippmatthes_thumbsup.png; sourceTree = "<group>"; };
-		BEE1714621A01BFC0077063F /* 03_philippmatthes_thumbsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 03_philippmatthes_thumbsup.png; path = ../../Assets/03_philippmatthes_thumbsup.png; sourceTree = "<group>"; };
+		BEE1714921A0289E0077063F /* 02_philippmatthes_whatsup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 02_philippmatthes_whatsup.png; path = ../../Assets/02_philippmatthes_whatsup.png; sourceTree = "<group>"; };
+		BEE1714A21A0289E0077063F /* 03_philippmatthes_thumbsupvicky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 03_philippmatthes_thumbsupvicky.png; path = ../../Assets/03_philippmatthes_thumbsupvicky.png; sourceTree = "<group>"; };
+		BEE1714B21A0289F0077063F /* 05_philippmatthes_peace.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 05_philippmatthes_peace.png; path = ../../Assets/05_philippmatthes_peace.png; sourceTree = "<group>"; };
+		BEE1714C21A0289F0077063F /* 04_philippmatthes_thumbsupboth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 04_philippmatthes_thumbsupboth.png; path = ../../Assets/04_philippmatthes_thumbsupboth.png; sourceTree = "<group>"; };
+		BEE1714D21A0289F0077063F /* 06_philippmatthes_eating.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 06_philippmatthes_eating.png; path = ../../Assets/06_philippmatthes_eating.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,10 +190,13 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
-				BEE1714521A01BFC0077063F /* 02_philippmatthes_thumbsup.png */,
-				BEE1714621A01BFC0077063F /* 03_philippmatthes_thumbsup.png */,
-				BEE1714321A01A930077063F /* tray.png */,
 				BEE1714121A019B90077063F /* 01_philippmatthes_thumbsup.png */,
+				BEE1714921A0289E0077063F /* 02_philippmatthes_whatsup.png */,
+				BEE1714A21A0289E0077063F /* 03_philippmatthes_thumbsupvicky.png */,
+				BEE1714C21A0289F0077063F /* 04_philippmatthes_thumbsupboth.png */,
+				BEE1714B21A0289F0077063F /* 05_philippmatthes_peace.png */,
+				BEE1714D21A0289F0077063F /* 06_philippmatthes_eating.png */,
+				BEE1714321A01A930077063F /* tray.png */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -295,14 +304,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
-				BEE1714821A01BFC0077063F /* 03_philippmatthes_thumbsup.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
 				BEE1714421A01A930077063F /* tray.png in Resources */,
+				BEE1715021A0289F0077063F /* 05_philippmatthes_peace.png in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
+				BEE1714E21A0289F0077063F /* 02_philippmatthes_whatsup.png in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
+				BEE1715221A0289F0077063F /* 06_philippmatthes_eating.png in Resources */,
 				BEE1714221A019B90077063F /* 01_philippmatthes_thumbsup.png in Resources */,
+				BEE1715121A0289F0077063F /* 04_philippmatthes_thumbsupboth.png in Resources */,
+				BEE1714F21A0289F0077063F /* 03_philippmatthes_thumbsupvicky.png in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
-				BEE1714721A01BFC0077063F /* 02_philippmatthes_thumbsup.png in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
 				8A18E33D1FBA793F0082201D /* sticker_packs.wasticker in Resources */,
 			);
